@@ -32,3 +32,5 @@ docker run -d -p 8080:80 --name container_name your_username/image_name
 
 # Step 2.7: Open a browser on your laptop and enter the following in the address bar:
 http://localhost:8080
+
+
